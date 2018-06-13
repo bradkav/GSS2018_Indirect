@@ -1,0 +1,31 @@
+Name		Distance(kpc)	Err_distance	Rhalf(pc)	Err_rhalf	Angle(deg)	Err_angle	log(J)		err_log(J)
+Carina		105		6		250		39		1.26		0		17.92		0.19
+Carina		105		6		250		39		0.15		0.15		17.87		0.10
+Draco		76		6		221		19		1.30		0		19.05		0.22
+Draco		76		6		221		19		0.40		0.16		18.84		0.12		
+LeoII		233		14		176		42		0.23		0		17.97		0.20
+LeoII		233		14		176		42		0.04		0.05		17.97		0.20
+Carina		105		6		250		39		0.5		0		18.1		0.23
+Draco		76		6		221		19		0.40		0.16		18.8		0.16		
+LeoII		233		14		176		42		0.23		0		17.6		0.18
+
+
+#DWARF GALAXY ANNIHILATION AND DECAY EMISSION PROFILES FOR DARK MATTER EXPERIMENTS (2015)
+# Dark matter constraints from observations of 25 Milky Way satellite galaxies with the Fermi Large Area Telescope (2014)
+carina_distance=105*kpc_to_cm
+carina_rs=5*0.25*kpc_to_cm
+carina_angle=[1.26, 0.15, 0.5]
+carina_j=[17.92, 17.87, 18.1]
+carina_j_error=[0.19, 0.1, 0.23]
+
+draco_distance=76*kpc_to_cm
+draco_rs=5*0.221*kpc_to_cm
+draco_angle=[1.30, 0.40, 0.5]
+draco_j=[19.05, 18.84, 18.8]
+draco_j_error=[0.22, 0.12, 0.16]
+
+leoII_distance=233*kpc_to_cm
+leoII_rs=5*0.176*kpc_to_cm
+leoII_angle=[0.23, 0.04, 0.5]
+leoII_j=[17.97, 17.97, 17.6]
+leoII_j_error=[0.2, 0.2, 0.18]
