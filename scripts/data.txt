@@ -1,0 +1,5 @@
+NAME		Rho_0(gev/cm^3)		R_s(kpc)	d(kpc)		data_angles		data_j			data_upper_j		data_lower_j		plot_color
+MilkyWay	0.471			16		8.5		0	0		0	0		0	0		0	0		b												
+Carina		1.43369			1.25		105		1.26	0.5		18.03	17.99		0.34	0.34 		0.34	0.34		#0099cc
+Draco		1.5565			1.105		76		1.30	0.5		18.92	18.86		0.25	0.24 		0.25	0.24		#6600cc
+LeoII		1.8116			0.875		233		0.23	0.5		17.41	17.44		0.25	0.25 		0.25	0.25		r
