@@ -6,3 +6,6 @@ In particular, for information about the scripts, [see here](https://github.com/
 
 Use the `review/` folder for the LaTeX files for your review and the `scripts/` folder for your code.
 
+### Comments
+
+* Observing gamma rays doesn't tell us about the distribution of Dark Matter (yet!). Rather, we use kinematic data to tell us about the distribution of Dark Matter, which tells us where to look for Dark Matter.
