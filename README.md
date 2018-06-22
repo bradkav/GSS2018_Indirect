@@ -9,3 +9,4 @@ Use the `review/` folder for the LaTeX files for your review and the `scripts/` 
 ### Comments
 
 * Observing gamma rays doesn't tell us about the distribution of Dark Matter (yet!). Rather, we use kinematic data to tell us about the distribution of Dark Matter, which tells us where to look for Dark Matter.
+* 'Striking' evidence of cores in dwarf galaxies: arXiv:0810.2119
