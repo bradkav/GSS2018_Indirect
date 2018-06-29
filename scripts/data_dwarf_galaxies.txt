@@ -1,9 +1,0 @@
-# DWARF GALAXY ANNIHILATION AND DECAY EMISSION PROFILES FOR DARK MATTER EXPERIMENTS (2015)
-# Dark matter constraints from observations of 25 Milky Way satellite galaxies with the Fermi Large  Area Telescope (2014)
-
-# Name		Distance(kpc)	Err_distance	Rhalf(pc)	Err_rhalf	Angle(deg)	log(J)   upErr_log(J)   lowErr_log(J)
-Carina		105		6		250		39		1.26		17.92		0.11       0.19
-Draco		76		6		221		19		1.30		19.05		0.21       0.22		
-LeoII		233		14		176		42		0.23		17.97		0.18       0.20
-
-
