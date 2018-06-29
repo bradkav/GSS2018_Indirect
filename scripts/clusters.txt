@@ -1,0 +1,8 @@
+# EVIDENCE FOR INDIRECT DETECTION OF DARK MATTER FROM GALAXY CLUSTERS IN FERMI gamma-RAY DATA (Hektor et al. (2013))
+# CONSTRAINTS ON DARK MATTER ANNIHILATION IN CLUSTERS OF GALAXIES FROM DIFFUSE RADIO EMISSION (Storm et al. (2013))
+
+# Name		Mvir (1e14 Msol)    Distance(Mpc)	r200(deg)   data_j (Mpc rho_c^2)      	    
+Perseus		5.04                79.48		    1.41	    147              
+Coma		9.88                101.14		    1.21		131              
+
+
