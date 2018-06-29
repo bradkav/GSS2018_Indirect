@@ -12,6 +12,7 @@ Use the `review/` folder for the LaTeX files for your review and the `scripts/` 
 * How do we estimate the amount of Dark Matter in (e.g.) dwarfs?
 * 'Striking' evidence of cores in dwarf galaxies: arXiv:0810.2119
 * How do we decide where to look for (e.g.) gamma rays from Dark Matter? The interplay between signal and background.
+* About antiprotons:  you can check this reference https://arxiv.org/pdf/1104.2996.pdf that explains why antiprotons ca be produced in purely leptonic final states, to make the sentence "we don't expect many antiprotons in a leptonic channel" more precise
 
 ### Comments on the scripts
 
